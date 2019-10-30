@@ -1,0 +1,1 @@
+# swatchs-implement-on-any-theme
